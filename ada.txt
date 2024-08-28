@@ -1,0 +1,130 @@
+    1  chmod 600 route53.pem
+    2  ssh -i "route53.pem" ichigo@4.210.251.185
+    3  history
+    4  ssh -i "route53.pem" scp-server@135.236.106.246
+    5  git init
+    6  ll
+    7  git status
+    8  git branch
+    9  ll
+   10  git show
+   11  git add
+   12  git branch
+   13  cd .git/
+   14  ll
+   15  git branch
+   16  git branch test
+   17  git branch test1
+   18  git branch favour
+   19  git branch
+   20  cd ~
+   21  git branch favour
+   22  git branch jane
+   23  git branch -a
+   24  git --version
+   25  git config --global init.defaultBranch main
+   26  git branch
+   27  git status
+   28  git add .ssh/
+   29  git commit -m "I added the entire .ssh directory"
+   30  git config --global user.email "Favour_Ozioma@Outlook.com"
+   31  git config --global user.name "Favour Ozioma"
+   32  git commit -m "I added the entire .ssh directory"
+   33  git branch
+   34  git branch favour
+   35  git branch
+   36  git branch dilichukwu
+   37  git branch ozioma
+   38  git branch
+   39  git checkout dilicgukwu
+   40  git checkout dilichukwu
+   41  git branch
+   42  ll
+   43  git status
+   44  rm -rf .git
+   45  ll
+   46  git branch
+   47  pwd
+   48  mkdir git
+   49  cd git/
+   50  git init
+   51  ll
+   52  gti branch
+   53  git branch
+   54  ll
+   55  history > git.py
+   56  ll
+   57  git status
+   58  git add git.py 
+   59  ll
+   60  clear
+   61  git status
+   62  git commit -m "added git.py"
+   63  git status
+   64  git branch favour
+   65  git branch dilichukwu
+   66  git branch ozioma
+   67  ll
+   68  git checkout favour
+   69  ll
+   70  cp git.py azu.mp4
+   71  git status
+   72  git add .
+   73  git commit -m "added azu.mp4"
+   74  ll
+   75  git branch
+   76  git checkout dilichukwu
+   77  ll
+   78  git checkout main 
+   79  git branch
+   80  git merge favour
+   81  ll
+   82  git status
+   83  ll
+   84  clear
+   85  ll
+   86  git branch
+   87  cd /home/
+   88  ll
+   89  cd wsl/
+   90  ll
+   91  rm -rf .gitconfig 
+   92  rm -rf .git
+   93  ll
+   94  rm -rf git/
+   95  ll
+   96  cd .ssh/
+   97  ll
+   98  ssh-keygen
+   99  ll
+  100  cat id_rsa.pub 
+  101  cd /home/
+  102  ll
+  103  cd wsl/
+  104  ll
+  105  mkdir odin
+  106  cd /home/wsl/odin/
+  107  git remote add origin git@github.com:Faozio/css-exercises.git
+  108  git init
+  109  git remote add origin git@github.com:Faozio/css-exercises.git
+  110  ll
+  111  cd .git/
+  112  ll
+  113  cd
+  114  ll
+  115  pwd
+  116  cd odin/
+  117  ll
+  118  git status
+  119  git pull
+  120  ll
+  121  cd .git/
+  122  ll
+  123  cd
+  124  ll
+  125  cd odin/
+  126  ll
+  127  git branch
+  128  git status
+  129  git remote -v
+  130  history > ada.txt
